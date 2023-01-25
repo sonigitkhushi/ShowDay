@@ -1,0 +1,31 @@
+
+body{
+    background-color: #3c5054;
+    height: 100%;
+
+}
+#to{
+    font-size: 40px;
+}
+#container{
+    height: 200px;
+    width: 550px;
+    background-color: #b6ebed;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border: 5px solid darkblue;
+    margin-top: 100px;
+}
+#output{
+    font-size: 50px;
+    text-align: center;
+}
+#date{
+   font-size: 50px;
+   text-align: center; 
+}
+
